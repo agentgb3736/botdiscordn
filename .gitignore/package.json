@@ -1,8 +1,7 @@
 {
   "name": "",
-  "version": "",
   "dependencies": {
-    "client": "0.0.1",
-    "discord.js": "^11.3.2",
-  }
+    "discord.js": "^11.3.0"
+  },
+  "version": ""
 }
